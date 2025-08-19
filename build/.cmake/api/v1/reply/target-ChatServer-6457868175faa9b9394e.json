@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/home/xuan/\u684c\u9762/CHAT/bin/ChatServer"
+			"path" : "/home/xuan/\u684c\u9762/CHAT/chatserver/bin/ChatServer"
 		}
 	],
 	"backtrace" : 1,
@@ -83,34 +83,34 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -g"
+					"fragment" : "-g"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 4,
-					"path" : "/home/xuan/\u684c\u9762/CHAT/include"
+					"path" : "/home/xuan/\u684c\u9762/CHAT/chatserver/include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "/home/xuan/\u684c\u9762/CHAT/include/server"
+					"path" : "/home/xuan/\u684c\u9762/CHAT/chatserver/include/server"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "/home/xuan/\u684c\u9762/CHAT/include/server/db"
+					"path" : "/home/xuan/\u684c\u9762/CHAT/chatserver/include/server/db"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/xuan/\u684c\u9762/CHAT/include/server/model"
+					"path" : "/home/xuan/\u684c\u9762/CHAT/chatserver/include/server/model"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "/home/xuan/\u684c\u9762/CHAT/include/server/redis"
+					"path" : "/home/xuan/\u684c\u9762/CHAT/chatserver/include/server/redis"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "/home/xuan/\u684c\u9762/CHAT/thirdparty"
+					"path" : "/home/xuan/\u684c\u9762/CHAT/chatserver/thirdparty"
 				}
 			],
 			"language" : "CXX",
@@ -134,7 +134,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-g -g",
+				"fragment" : "-g",
 				"role" : "flags"
 			},
 			{

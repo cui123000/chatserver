@@ -897,8 +897,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/xuan/\u684c\u9762/CHAT/build",
-		"source" : "/home/xuan/\u684c\u9762/CHAT"
+		"build" : "/home/xuan/\u684c\u9762/CHAT/chatserver/build",
+		"source" : "/home/xuan/\u684c\u9762/CHAT/chatserver"
 	},
 	"version" : 
 	{
